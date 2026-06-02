@@ -1,0 +1,4 @@
+# Ignore data and models (DVC will handle these!)
+*.csv
+*.pkl
+__pycache__/
